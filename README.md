@@ -1,6 +1,5 @@
 # 🎨 UI/UX Design Portfolio
 
-## 🔗 My Figma Design & Prototype
 
 ### 🚚 UIHP_CourierFast App
 [Open Figma Project](https://www.figma.com/proto/0EboOCXdgt5pOlEr9JjdSU/D1?node-id=41-187&p=f&viewport=168%2C295%2C0.12&t=0UCrJyAMHFaJtHZF-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=10%3A14&page-id=0%3A1)
